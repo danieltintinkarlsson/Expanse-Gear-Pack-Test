@@ -15,7 +15,7 @@
       "name": "armor",
       "label": "Armor",
       "path": "packs/armor.db",
-      "type": "Items",
+      "type": "Item",
       "private": false,
       "system": "age-system",
       "flags": {}
@@ -24,7 +24,7 @@
       "name": "explosives",
       "label": "Explosives",
       "path": "packs/explosives.db",
-      "type": "Items",
+      "type": "Item",
       "private": false,
       "system": "age-system",
       "flags": {}
@@ -33,7 +33,7 @@
       "name": "melee",
       "label": "Melee Weapons",
       "path": "packs/melee.db",
-      "type": "Items",
+      "type": "Item",
       "private": false,
       "system": "age-system",
       "flags": {}
@@ -42,7 +42,7 @@
       "name": "pistols",
       "label": "Pistols",
       "path": "packs/pistols.db",
-      "type": "Items",
+      "type": "Item",
       "private": false,
       "system": "age-system",
       "flags": {}
@@ -51,7 +51,7 @@
       "name": "rifles",
       "label": "Rifles",
       "path": "packs/rifles.db",
-      "type": "Items",
+      "type": "Item",
       "private": false,
       "system": "age-system",
       "flags": {}
@@ -60,7 +60,7 @@
       "name": "shotguns",
       "label": "Shotguns",
       "path": "packs/shotguns.db",
-      "type": "Items",
+      "type": "Item",
       "private": false,
       "system": "age-system",
       "flags": {}
@@ -69,16 +69,16 @@
       "name": "tools",
       "label": "Tools",
       "path": "packs/tools.db",
-      "type": "Items",
+      "type": "Item",
       "private": false,
       "system": "age-system",
       "flags": {}
     }
   ],
-  "id": "expanse-gear-pack",
+  "id": "expanse-gear-pack-test",
   "authors": [
     {
-      "name": "schlosrat",
+      "name": "danieltintinkarlsson",
       "flags": {}
     }
   ],
